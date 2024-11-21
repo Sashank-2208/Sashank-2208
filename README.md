@@ -1,4 +1,4 @@
-sasank rabin- 👋 Hi, I’m @Sashank-2208
+- 👋 Hi, I’m @Sashank-2208
 - 👀 I’m interested in ...python
 - 🌱 I’m currently learning ...B.Tech
 - 💞️ I’m looking to collaborate on ...Microsoft
