@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...B.Tech
 - 💞️ I’m looking to collaborate on ...Microsoft
 - 📫 How to reach me ...search in google
-- 😄 Pronouns: ...no
+- 😄 Pronouns: ...Male
 - ⚡ Fun fact: ...Die with memories, not with dreams
 
 <!---
